@@ -1,5 +1,4 @@
 #define  _CRT_SECURE_NO_WARNINGS
-//2200100208»ÆìÏ¼ø
 #include<stdio.h>
 long jc(int k)
 {
